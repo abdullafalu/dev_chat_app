@@ -58,7 +58,7 @@ class _MyAppState extends State<MyApp> {
         primaryColor: Constant().primeryColor,
         scaffoldBackgroundColor: Colors.white,
       ),
-      debugShowCheckedModeBanner: true,
+      debugShowCheckedModeBanner: false,
       home:isSignedIn? const HomePage():const LogginPage(),
     );
   }
