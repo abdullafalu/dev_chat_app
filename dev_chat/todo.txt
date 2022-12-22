@@ -1,0 +1,3 @@
+Adding firebase to android
+to web
+firebase initializeapp() => android
