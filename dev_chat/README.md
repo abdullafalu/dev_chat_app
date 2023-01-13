@@ -2,15 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
+This is a chatting app backend with firebase,sharepreference
 
-This project is a starting point for a Flutter application.
+# screenshots
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230112-212515](https://user-images.githubusercontent.com/120295037/212359687-b3523698-b648-4fd8-8d8e-4d1c6a7246da.jpg)
+![Screenshot_20230112-212526](https://user-images.githubusercontent.com/120295037/212359695-7fd5d9e3-5eac-42fc-b93d-2109e00f43a6.jpg)
